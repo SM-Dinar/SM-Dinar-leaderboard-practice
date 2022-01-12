@@ -104,9 +104,6 @@ main{
     font-size: 16px;
     text-decoration: none;
 }
-.latest-courses{
-    display: flex;
-}
 .course .course-banner img{
     width: 224px;
     height: 104px;
